@@ -54,6 +54,7 @@ private String getNotNull(String typeStr,String fieldName) {
 
 
 如果不是基本数据类型，而且是null值，就new一个出来，如果还有报错，可以以后再修正。就是一个静态代码的生成罢了
+test.jar就是插件安装包
 
 代码地址https://github.com/yeqinfu/NotNullGsonFormat
 我的博客：www.yeqinfu.com
